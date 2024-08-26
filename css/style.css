@@ -251,6 +251,7 @@ background-color: rgba(0, 0, 0, 0.4);*/
 
 .banner-img-wrap {
     min-height: 65vh;
+    padding-top: 2em;
 }
 
 .banner-img {
